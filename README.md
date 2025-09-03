@@ -1,5 +1,11 @@
 # UDP INSTALL
 
+# Linux / Termux
+
+apt install git -y
+
+apt install nodejs-lts -y
+
 git clone https://github.com/iTzDarkoPvP/UDP.git
 
 cd UDP
