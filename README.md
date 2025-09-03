@@ -10,7 +10,7 @@ git clone https://github.com/iTzDarkoPvP/UDP.git
 
 cd UDP
 
-node UDP.js
+node udp.js
 
 After doing that you just have to put the IP, port and time.
 
