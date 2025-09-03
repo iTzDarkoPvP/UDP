@@ -2,6 +2,10 @@
 
 # Linux / Termux
 
+apt update -y
+
+apt upgrade -y
+
 apt install git -y
 
 apt install nodejs-lts -y
